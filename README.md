@@ -20,3 +20,4 @@ Googleスプレッドシート上にまとめてある情報をDiscordなどの�
     - D列: イベントに関するURL
     - E列: その他補足
   
+  - Discordと連携してBotとしてリマインドメッセージを送るので、各々Webhookを用意する必要があります。([参考](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks))
